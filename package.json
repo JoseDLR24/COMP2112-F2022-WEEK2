@@ -1,0 +1,15 @@
+{
+  "name": "comp2112-f2022-week2",
+  "version": "Demo app for Week 2",
+  "description": "Demo app for week 2",
+  "main": "index.js",
+  "repository": "https://github.com/JoseDLR24/ThrowAway.git",
+  "author": "Jose De Los Reyes <jddelosreyes23@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.0",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1"
+  }
+}
